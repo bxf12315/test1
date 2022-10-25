@@ -15,7 +15,7 @@
   ],
   "events": [
     {
-      "name": "NewGreetEvent",
+      "name": "NewGreetEvent1",
       "source": "greetEvent",
       "type": "dev.knative.kafka.event"
     }
